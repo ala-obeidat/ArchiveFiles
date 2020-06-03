@@ -21,15 +21,15 @@ Compress and archive files not longer access from checking directory to destinat
     <!--Destination Directory to check old files-->
     <add key="DestinationDirectory" value="E:\Archive"/>
     
-  ### Configuration
-  #### all configuration come from appSettings tag in App.config below:
-  -  **Interval:**  Start Interval for service to start checking and working in hours
-     - Integer value like "12"
-  -  **LastAccessTime:** File Last Access time in hours to mark this file as old
-     - Integer value like "6"
-  -  **SourceDirectory:** Source Directory to check old files
-     - string value like "D:\Download"
-  -  **DestinationDirectory:** Destination Directory to add compress files here
+### Configuration
+#### all configuration come from appSettings tag in App.config below:
+ -  **Interval:**  Start Interval for service to start checking and working in hours
+    - Integer value like "12"
+ -  **LastAccessTime:** File Last Access time in hours to mark this file as old
+    - Integer value like "6"
+ -  **SourceDirectory:** Source Directory to check old files
+    - string value like "D:\Download"
+ -  **DestinationDirectory:** Destination Directory to add compress files here
      - string value like "F:\Backup"
   
 ## Note: 
