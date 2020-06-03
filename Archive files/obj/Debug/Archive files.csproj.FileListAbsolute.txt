@@ -1,0 +1,10 @@
+c:\users\alaa\documents\visual studio 2015\Projects\Archive files\Archive files\bin\Debug\Archive files.exe.config
+c:\users\alaa\documents\visual studio 2015\Projects\Archive files\Archive files\bin\Debug\Archive files.exe
+c:\users\alaa\documents\visual studio 2015\Projects\Archive files\Archive files\bin\Debug\Archive files.pdb
+c:\users\alaa\documents\visual studio 2015\Projects\Archive files\Archive files\bin\Debug\ICSharpCode.SharpZipLib.dll
+c:\users\alaa\documents\visual studio 2015\Projects\Archive files\Archive files\bin\Debug\ICSharpCode.SharpZipLib.xml
+c:\users\alaa\documents\visual studio 2015\Projects\Archive files\Archive files\obj\Debug\Archive files.exe
+c:\users\alaa\documents\visual studio 2015\Projects\Archive files\Archive files\obj\Debug\Archive files.pdb
+c:\users\alaa\documents\visual studio 2015\Projects\Archive files\Archive files\obj\Debug\Archive_files.ProjectInstaller.resources
+c:\users\alaa\documents\visual studio 2015\Projects\Archive files\Archive files\obj\Debug\Archive files.csproj.GenerateResource.Cache
+C:\Users\Alaa\Documents\Visual Studio 2015\Projects\Archive files\Archive files\obj\Debug\Archive files.csprojResolveAssemblyReference.cache
